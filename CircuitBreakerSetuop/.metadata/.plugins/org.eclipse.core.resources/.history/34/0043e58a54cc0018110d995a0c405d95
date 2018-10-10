@@ -1,0 +1,10 @@
+package com.service.remote.model;
+
+public class UserModel {
+	
+	private String userName;
+	private String delayTime;
+	
+	
+
+}

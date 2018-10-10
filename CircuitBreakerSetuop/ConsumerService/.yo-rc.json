@@ -1,0 +1,31 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.service.consumer"
+    },
+    "jhipsterVersion": "5.3.4",
+    "applicationType": "microservice",
+    "baseName": "ConsumerService",
+    "packageName": "com.service.consumer",
+    "packageFolder": "com/service/consumer",
+    "serverPort": "8051",
+    "authenticationType": "jwt",
+    "cacheProvider": "no",
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Memory",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "gradle",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "MzQ4Njg1MTQ1YTQwNjgwMTFjZWMyZTExMDUxNDIzZmE0YjAxZjc4NGIwMjQ3MDE1Y2E2YWEwYTkyMTM1YTBjMzllY2Q5MzM3OTA4ZTlkNTBiYmFmYTU3NGMwMmIyNTQ5Mzc3MzNkOTY2ZjZkYWRiZDNiZDUxNDAyY2E1YjAxZTM=",
+    "enableTranslation": false,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "clientPackageManager": "npm",
+    "skipClient": true,
+    "skipUserManagement": true
+  }
+}
